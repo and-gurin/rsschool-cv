@@ -14,3 +14,19 @@
 - 15 year experience design models in Autocad;
 - Highly-motivated and result orientated, easily trained. 
 - Interested in self-developing;
+## Skills
+- HTML
+- CSS
+- JS
+- TS
+- Git
+## Code Example
+```
+const colourAssociation = (array) => {
+    let arrayObj = [];
+    for (let i = 0; i < array.length; i++) {
+      arrayObj.push({[array[i][0]] : array[i][1]});
+    }
+  return arrayObj;
+  }
+```
