@@ -1,0 +1,46 @@
+# Andrei Hurynovich
+## Contacts
+ - __Location:__ Minsk, Belarus
+ - __Phone:__ +375296641773 viber, telegram, whatsapp
+ - __Email:__ and.gurin@gmail.com
+ - __GitHub:__ [and-gurin](https://github.com/and-gurin)
+ - __Linkedin:__ [and-gurin](https://linkedin.com/in/and-gurin)
+
+## About me
+- English B1;
+- Working with Agile methodologies such as Scrum and Kanban;
+- Graduated from BSUIR, my major is engineer.
+- Experience in sales and marckting;
+- 15 year experience design models in Autocad;
+- Highly-motivated and result orientated, easily trained. 
+- Interested in self-developing;
+## Skills
+- HTML
+- CSS
+- JS
+- TS
+- Git
+## Code Example
+```
+const colourAssociation = (array) => {
+    let arrayObj = [];
+    for (let i = 0; i < array.length; i++) {
+      arrayObj.push({[array[i][0]] : array[i][1]});
+    }
+  return arrayObj;
+  }
+```
+## Work experience
+- Sales retail and wholesale. Online store + offline + warehouse. Project from 0 to profit for the year; 
+## Education
+- **University:** Belarusian State University of Informatics and Radioelectronics
+- **Courses:**
+  - htmlacademy.ru HTML&CSS&JS practice
+  - it-incubator Front-end course
+  - freecodecamp.org JavaScript Algorithms and Data Structures
+  - RS School JavaScript/Front-end course (in progress)
+  ## Languages
+- **Belarusian** - native
+- **Russian** - basic
+- **English** - B1
+- **Polish** - A2
