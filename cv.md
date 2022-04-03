@@ -39,3 +39,7 @@ const colourAssociation = (array) => {
   - it-incubator Front-end course
   - freecodecamp.org JavaScript Algorithms and Data Structures
   - RS School JavaScript/Front-end course (in progress)
+  ## Languages
+- **Russian** - native
+- **English** - B1
+- **Polish** - A2
