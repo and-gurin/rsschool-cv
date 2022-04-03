@@ -30,3 +30,12 @@ const colourAssociation = (array) => {
   return arrayObj;
   }
 ```
+## Work experience
+- Sales retail and wholesale. Online store + offline + warehouse. Project from 0 to profit for the year; 
+## Education
+- **University:** Belarusian State University of Informatics and Radioelectronics
+- **Courses:**
+  - htmlacademy.ru HTML&CSS&JS practice
+  - it-incubator Front-end course
+  - freecodecamp.org JavaScript Algorithms and Data Structures
+  - RS School JavaScript/Front-end course (in progress)
