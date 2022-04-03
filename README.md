@@ -1,1 +1,1 @@
-https://and-gurin.github.io/rsschool-cv/cv
+https://and-gurin.github.io/rsschool-cv/
